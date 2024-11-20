@@ -1,7 +1,23 @@
-👋 Hi, I’m @Farhan3369  
-- 👀 I’m interested in automation, scripting, and optimizing workflows to save time and boost productivity.  
-- 🌱 I’m currently learning advanced JavaScript, Python automation, and API integration for seamless task management.  
-- 💞️ I’m looking to collaborate on automation tools, open-source projects, and innovative scripts for Like4Like.org and other platforms.  
-- 📫 How to reach me: You can contact me at sayemx7890@gmail.com 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love creating scripts that turn repetitive tasks into opportunities for creativity and efficiency!  
+# TaskMaster v2.5 - Automate Like4Like.org Tasks 🚀  
+
+**TaskMaster v2.5** is my latest automation script tailored for Like4Like.org users, designed to streamline task completion and maximize credit earning.  
+
+## 🎥 Watch the Demo  
+I've created a detailed video showcasing how TaskMaster v2.5 works and its key features.  
+👉 https://youtu.be/2tG9Kmakr8U?si=FP-SiRHnYWBgUXfg
+
+## 🌟 Key Features  
+- **Automates Like4Like.org Tasks:** Likes, follows, and other actions are fully automated for faster credit earning.  
+- **Multi-Account Support:** Seamlessly switches between multiple Facebook accounts using cookies.  
+- **Error Handling:** Includes fallback mechanisms like JavaScript and XPath for smooth execution.  
+- **Humanized Delays:** Mimics real user interactions to stay under detection radar.  
+
+## 📌 Note  
+This script is not available publicly. If you're interested in collaboration or learning more, feel free to reach out!  
+
+## 📫 Contact Me  
+- Email: [sayemx7890@gmail.com)
+- Facebook: https://www.facebook.com/procrastinatorXD
+---  
+
+⭐ If you're excited about automation and want to explore possibilities, let's connect! 😊  
