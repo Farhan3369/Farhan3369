@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Farhan3369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Farhan3369/Farhan3369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Farhan3369  
+- 👀 I’m interested in automation, scripting, and optimizing workflows to save time and boost productivity.  
+- 🌱 I’m currently learning advanced JavaScript, Python automation, and API integration for seamless task management.  
+- 💞️ I’m looking to collaborate on automation tools, open-source projects, and innovative scripts for Like4Like.org and other platforms.  
+- 📫 How to reach me: You can contact me at sayemx7890@gmail.com 
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love creating scripts that turn repetitive tasks into opportunities for creativity and efficiency!  
